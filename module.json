@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "name": "ARTimer",
     "author": "PsykoDev",
     "version": "103.2",
