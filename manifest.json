@@ -1,0 +1,13 @@
+{
+    "files": {
+        "README.md": "bccbe643e42a101e57366456639df02186c1fcd6ed3434e8fdd49400f404e9f2",
+        "index.js": "d2f082c4b43fb29c7d111a2fd48c7dfd0c7cbab0990323a4561efd107dee7283",
+        "module.json": "e26aa6e6e468375e0c3bab51be0ef25f22cb501013b4dfbaee5f8939274ca770",
+        "settings.js": "a7e850aef53e5dd327debb697f7dc96f67911a2f8b92daa1b01dce732117af46"
+    },
+    "defs": {
+        "S_ABNORMALITY_BEGIN": 4,
+        "S_ABNORMALITY_END": 1,
+        "S_CHAT": 3
+    }
+}
